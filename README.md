@@ -6,7 +6,7 @@
 :computer: I'm Web Developer!
 :books: And a computer science student better known as "the nerds".
 :house_with_garden: I’m from Brazil.
-:books: I am currently learning about UX design. And I'm really excited about the design universe.
+:books: I am currently learning about UX design.🤩🤩 And I'm really excited about the design universe. 🤩
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 

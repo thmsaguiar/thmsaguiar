@@ -4,10 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/)](https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/)
 
 :computer: I'm Web Developer!
+:books: And a computer science student better known as "the nerds".
 :house_with_garden: I’m from Brazil.
 :books: I am currently learning about UX design. And I'm really excited about the design universe.
 :outbox_tray: 2021 Goals: create a new project and find a new job.
-:books: I'm a computer science student better known as "the nerds".
+
 
 And yes, it's true that I spend almost 90% of my day in front of the computer. 
 but that's where I learn a multitude of things like making drawing animation at the level of a child who is in preschool kkkkkkk. 

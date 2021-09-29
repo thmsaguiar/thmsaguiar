@@ -10,8 +10,7 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
-And yes, it's true that I spend almost 90% of my day in front of the computer. 
-but that's where I learn a multitude of things like making drawing animation at the level of a child who is in preschool kkkkkkk. 
+And yes, it's true that I spend almost 90% of my day in front of the computer kkkkk but that's where I learn a multitude of things like making drawing animation at the level of a child who is in preschool kkkkkkk. 
 I also spend my time petting my cats and watching a lot of animes!!!!
 Now let's talk about my professional and academic side. 
 I truly believe that the journey of knowledge never ends so I'm always looking to learn new things or improve my skills.

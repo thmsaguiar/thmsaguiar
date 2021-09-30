@@ -1,6 +1,7 @@
 # Hiiiiii, I'm very happy to see you‼️ 🎉🤩🤭🎉
 ## My name is Thomas Aguiar!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/)](https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/)
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/thomas-aguiar)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thmsaguiar/)
 
 <p align="center">🏡 I’m from Brazil ⚽️ </p>
 

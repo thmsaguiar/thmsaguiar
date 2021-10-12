@@ -24,4 +24,20 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thmsaguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  <img src="https://img.shields.io/badge/html5-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue" />
+  <img src="https://img.shields.io/badge/c%23-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=purple" />
+  <img src="https://img.shields.io/badge/java-%2312100E.svg?&style=for-the-badge&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
+  <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/angular-%2312100E.svg?&style=for-the-badge&logo=angular&logoColor=red" />
+  <img src="https://img.shields.io/badge/bootstrap-%2312100E.svg?&style=for-the-badge&logo=bootstrap&logoColor=lilac" />
+  <img src="https://img.shields.io/badge/ionic-%2312100E.svg?&style=for-the-badge&logo=ionic&logoColor=blue" />
+  <img src="https://img.shields.io/badge/android-%2312100E.svg?&style=for-the-badge&logo=android&logoColor=green" />
+  <img src="https://img.shields.io/badge/ios-%2312100E.svg?&style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/miro-%2312100E.svg?&style=for-the-badge&logo=miro&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/figma-%2312100E.svg?&style=for-the-badge&logo=figma&logoColor=red" />
+  <img src="https://img.shields.io/badge/sublimetext-%2312100E.svg?&style=for-the-badge&logo=sublimetext&logoColor=yellow" />
+  
 </div>

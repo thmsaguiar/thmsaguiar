@@ -39,6 +39,7 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
   <img src="https://img.shields.io/badge/ios-%2312100E.svg?&style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/miro-%2312100E.svg?&style=for-the-badge&logo=miro&logoColor=yellow" />
   <img src="https://img.shields.io/badge/figma-%2312100E.svg?&style=for-the-badge&logo=figma&logoColor=red" />
+  <img src="https://img.shields.io/badge/git-%2312100E.svg?&style=for-the-badge&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/sublimetext-%2312100E.svg?&style=for-the-badge&logo=sublimetext&logoColor=yellow" />
   
 </div>

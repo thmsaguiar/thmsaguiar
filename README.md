@@ -28,6 +28,7 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
   <img src="https://img.shields.io/badge/c%23-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=purple" />
   <img src="https://img.shields.io/badge/java-%2312100E.svg?&style=for-the-badge&logo=java&logoColor=red" />
   <img src="https://img.shields.io/badge/python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/php-%2312100E.svg?&style=for-the-badge&logo=php&logoColor=lilac" />
   <img src="https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />

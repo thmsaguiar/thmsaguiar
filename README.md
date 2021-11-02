@@ -46,3 +46,5 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
   <img src="https://img.shields.io/badge/vscode-%2312100E.svg?&style=for-the-badge&logo=visualstudio&logoColor=blue" />
   
 </div>
+
+![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)

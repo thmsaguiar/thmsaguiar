@@ -33,6 +33,8 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
   <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/angular-%2312100E.svg?&style=for-the-badge&logo=angular&logoColor=red" />
+  <img src="https://img.shields.io/badge/react-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=blue" />
+  <img src="https://img.shields.io/badge/spring-%2312100E.svg?&style=for-the-badge&logo=spring&logoColor=green" />
   <img src="https://img.shields.io/badge/bootstrap-%2312100E.svg?&style=for-the-badge&logo=bootstrap&logoColor=lilac" />
   <img src="https://img.shields.io/badge/ionic-%2312100E.svg?&style=for-the-badge&logo=ionic&logoColor=blue" />
   <img src="https://img.shields.io/badge/android-%2312100E.svg?&style=for-the-badge&logo=android&logoColor=green" />

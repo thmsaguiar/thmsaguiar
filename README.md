@@ -22,7 +22,8 @@ I truly believe that the journey of knowledge never ends so I'm always looking t
 </div>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thmsaguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Thomas Aguiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thmsaguiar&hide=issues&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thmsaguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://img.shields.io/badge/html5-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue" />
   <img src="https://img.shields.io/badge/c%23-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=purple" />

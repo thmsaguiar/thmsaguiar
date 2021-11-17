@@ -6,7 +6,7 @@
 <div align="center">
 <p>🏡 I'm 23 years old and I'm from Brazil ⚽️ </p>
 
-<p>💻 I'm a computer science student better known as "the nerds"🤓🤓</p>
+<p>💻 I'm a computer science student🤓🤓</p>
   
 <p>🎯 My goals for this year is to get involved in more projects and get a job👨🏻‍💻</p>
 

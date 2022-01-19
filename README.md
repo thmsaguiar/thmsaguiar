@@ -6,9 +6,9 @@
 <div align="center">
 <p>🏡 I'm 23 years old and I'm from Brazil ⚽️ </p>
 
-<p>💻 I'm a computer science student🤓🤓</p>
+<p>💻 I currently work in the technology consulting area. 💼👨🏻‍💼</p>
   
-<p>🎯 My goals for this year is to get involved in more projects and get a job👨🏻‍💻</p>
+<p>🎯 My goals for this year is to get involved in more projects and practice new languages 👨🏻‍💻🗣️</p>
 
 <p>And yes, it's true that I spend almost 90% of my day in front of the computer 🕑🕝🕘. I truly believe that the journey of knowledge never ends so I'm always looking to learn new things or improve my skills 📊✔️</p>
 

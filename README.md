@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/git-%2312100E.svg?&style=for-the-badge&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/sublimetext-%2312100E.svg?&style=for-the-badge&logo=sublimetext&logoColor=yellow" />
   <img src="https://img.shields.io/badge/vscode-%2312100E.svg?&style=for-the-badge&logo=visualstudio&logoColor=blue" />
-  <img src="https://img.shields.io/badge/nextdotjs-%2312100E.svg?&style=for-the-badge&logo=nextdotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/nextdotjs-%2312100E.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
   
   
 </div>

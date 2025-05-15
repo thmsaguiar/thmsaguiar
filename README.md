@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/react-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=blue" />
+  <img src="https://img.shields.io/badge/nodedotjs-%2312100E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=green" />
   <img src="https://img.shields.io/badge/nextdotjs-%2312100E.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/sass-%2312100E.svg?&style=for-the-badge&logo=sass&logoColor=pink" />

@@ -24,7 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thmsaguiar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://img.shields.io/badge/html5-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue" />
-  <img src="https://img.shields.io/badge/java-%2312100E.svg?&style=for-the-badge&logo=java&logoColor=red" />
   <img src="https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/react-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=blue" />

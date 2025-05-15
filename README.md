@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/thomas-aguiar)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thomas-aguiar-vicente-a328671b0/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thmsaguiar/)
 
 <div align="center">
-<p>🏡 I'm 25 years old and I'm from Brazil ⚽️ </p>
+<p>🏡 I'm 26 years old and I'm from Brazil ⚽️ </p>
 
 <p>💻 I currently work in the technology consulting area. 💼👨🏻‍💼</p>
   
@@ -27,15 +27,22 @@
   <img src="https://img.shields.io/badge/java-%2312100E.svg?&style=for-the-badge&logo=java&logoColor=red" />
   <img src="https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/typescript-%2312100E.svg?&style=for-the-badge&logo=typescript&logoColor=blue" />
-  <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/react-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=blue" />
+  <img src="https://img.shields.io/badge/nextdotjs-%2312100E.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/sass-%2312100E.svg?&style=for-the-badge&logo=sass&logoColor=pink" />
   <img src="https://img.shields.io/badge/bootstrap-%2312100E.svg?&style=for-the-badge&logo=bootstrap&logoColor=lilac" />
+  <img src="https://img.shields.io/badge/mui-%2312100E.svg?&style=for-the-badge&logo=mui&logoColor=blue" />
   <img src="https://img.shields.io/badge/miro-%2312100E.svg?&style=for-the-badge&logo=miro&logoColor=yellow" />
   <img src="https://img.shields.io/badge/figma-%2312100E.svg?&style=for-the-badge&logo=figma&logoColor=red" />
   <img src="https://img.shields.io/badge/git-%2312100E.svg?&style=for-the-badge&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/sublimetext-%2312100E.svg?&style=for-the-badge&logo=sublimetext&logoColor=yellow" />
   <img src="https://img.shields.io/badge/vscode-%2312100E.svg?&style=for-the-badge&logo=visualstudio&logoColor=blue" />
-  <img src="https://img.shields.io/badge/nextdotjs-%2312100E.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  
+  
+  
+  
+  
   
   
 </div>
